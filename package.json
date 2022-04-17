@@ -39,5 +39,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/plotly.js": "^1.54.20",
+    "@types/react-plotly.js": "^2.5.0",
+    "autoprefixer": "^10.4.4",
+    "plotly.js": "^2.11.1",
+    "postcss": "^8.4.12",
+    "react-plotly.js": "^2.5.1",
+    "tailwindcss": "^3.0.24"
   }
 }
